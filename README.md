@@ -81,3 +81,26 @@ Ejemplos de archivos:
 ## Casos de prueba incluidos
 
 `main.py` incluye casos PA y no PA, con decimales, negativos, un solo numero, `None` y texto mezclado para validar manejo de errores.
+
+## Capturas de pantalla
+
+### Ejecución en consola - PA válida
+
+![Ejecución PA válida](docs/img/01-ejecucion-consola-pa.png)
+
+### Ejecución en consola - No PA
+
+![Ejecución No PA](docs/img/02-ejecucion-consola-no-pa.png)
+
+### Reporte CSV generado
+
+![Reporte CSV](docs/img/03-reporte-csv.png)
+
+### Pruebas unitarias
+
+![Tests pasando](docs/img/04-tests-pasando.png)
+
+### Estructura del proyecto
+
+![Estructura](docs/img/05-estructura-proyecto.png)
+
