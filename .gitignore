@@ -1,0 +1,25 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Test/cache tools
+.pytest_cache/
+
+# Local virtual environment-like folders in this project
+Lib/
+Scripts/
+
+# IDE settings
+.idea/
+
+# Generated outputs and temp data
+reportes/
+tests/tmp/
+tests/__pycache__/
+Ejecutando
+
+# Local bootstrap artifacts
+get-pip.py
+
